@@ -8,7 +8,7 @@ I've spent 22 years programming, 10 of which are as a professional software engi
 - 🖲️ obsess over ergonomics
   
 ## My x220 Setup
-![my thinkpad x220 setup](https://github.com/1ynn1ei/1ynn1ei/assets/112827749/42201ef5-a9ea-46c6-afbc-befeb8e62bbc)
+![y thinkpad x220 setup](https://github.com/1ynn1ei/1ynn1ei/assets/112827749/2045b7a6-1ca0-42fa-84ad-44b8b0491cf7)
 
 ## Things I Use & Recommend
 | Hardware      | Software |
