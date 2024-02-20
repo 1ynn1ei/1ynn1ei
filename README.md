@@ -8,13 +8,13 @@ I've spent 22 years programming, 10 of which are as a professional software engi
 - 🖲️ obsess over ergonomics
   
 ## My x220 Setup
-![y thinkpad x220 setup](https://github.com/1ynn1ei/1ynn1ei/assets/112827749/2045b7a6-1ca0-42fa-84ad-44b8b0491cf7)
+![](https://github.com/1ynn1ei/1ynn1ei/assets/112827749/10234739-8425-4c73-bf6d-c862e62b08ba)
 
 ## Things I Use & Recommend
 | Hardware      | Software |
 | ------------- | ------------- |
-| ThinkPad x220 i5 | arch linux |
-| Ergodox-EZ  | dwm & dmenu  |
+| ThinkPad x220 i5 | voidlinux |
+| Ergodox-EZ  | wayland & sway |
 | Olympia SM9 | neovim |
 | Lamy Safari | alacritty |
 
@@ -28,4 +28,6 @@ I've spent 22 years programming, 10 of which are as a professional software engi
 
 ## Future Projects
 - writing a file-based MUD client, allowing for tmux setups that can better reproduce modern GUI clients
+- writing a cli telegram client
+- writing a file-based IRC client
 - getting sound to work in terminal-mode games, such as C:DDA
